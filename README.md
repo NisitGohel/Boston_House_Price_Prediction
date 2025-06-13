@@ -1,4 +1,4 @@
 # Boston_House_Price_Prediction
 
 # Output On Local Host
-![Prediction Output On Localhost](https://github.com/user-attachments/assets/b9e080ff-fbd5-4266-b453-c312098ba40f)
+![Output on Localhost](https://github.com/user-attachments/assets/eb7e80b9-ce52-4eff-8e3e-133a0f89af9b)
